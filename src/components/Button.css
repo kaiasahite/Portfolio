@@ -1,0 +1,8 @@
+.btn {
+  border-radius: 2px;
+  cursor: pointer;
+}
+.btn--outline {
+  background-color: transparent;
+  color: white;
+}
